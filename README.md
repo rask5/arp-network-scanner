@@ -1,4 +1,5 @@
 Installation:
+
 $ git clone https://github.com/rask5/arp-network-scanner.git
 $ cd SubDomz 
 $ chmod +x install.sh SubDomz
